@@ -1,1 +1,4 @@
-un texto cualquiera
+un texto cualquierayou@example
+ git config --global user.email "codiexpress@hotmail.com"
+ git config --global user.name "codiexpress"
+ otro texto abajo
